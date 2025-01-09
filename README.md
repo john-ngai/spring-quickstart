@@ -2,4 +2,7 @@
 
 **Source:** https://spring.io/quickstart
 
-Currently at "Step 2: Add your code"
+## Getting Started
+
+- Build & run the app using: `mvn spring-boot:run`
+- Once started, the local web server can be accessed at http://localhost:8080
